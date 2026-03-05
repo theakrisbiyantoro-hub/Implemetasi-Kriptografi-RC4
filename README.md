@@ -43,6 +43,7 @@ python rc4.py
 ## Example Output
 
 ```
+!(
 Masukkan key: world
 Masukkan plaintext: halo thea
 
