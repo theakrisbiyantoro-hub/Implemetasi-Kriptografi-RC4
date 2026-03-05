@@ -43,7 +43,7 @@ python rc4.py
 ## Example Output
 
 ```
-![Output Program](output.png)
+![Output](output.png)
 ```
 
 ## Algorithm
