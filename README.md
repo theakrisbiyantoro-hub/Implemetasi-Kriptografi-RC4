@@ -25,13 +25,13 @@ Tidak memerlukan library tambahan karena algoritma diimplementasikan secara manu
 1. Clone repository
 
 ```
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/theakrisbiyantoro-hub/Implemetasi-Kriptografi-RC4
 ```
 
 2. Masuk ke folder project
 
 ```
-cd nama-repository
+cd Implementasi-Kriptografi-RC4
 ```
 
 3. Jalankan program
@@ -43,19 +43,20 @@ python rc4.py
 ## Example Output
 
 ```
-Masukkan key: rahasia
-Masukkan plaintext: HELLO
+Masukkan key: world
+Masukkan plaintext: halo thea
 
-Ciphertext:
-3a 91 2f a1 7b
+Ciphertext (HEX):
+0x36 0x2c 0xab 0x8 0xe2 0x2d 0xab 0x10 0x3f
 
 Hasil dekripsi:
-HELLO
+halo thea
 ```
 
 ## Algorithm
 RC4 (Rivest Cipher 4)
 
 ## Author
-Nama: (Nama kamu)  
-Program Studi: Teknik Informatika
+Nama: Alethea Tsabita Calista Syawal
+NIM: 24051204057
+Kelas: TIB 24
