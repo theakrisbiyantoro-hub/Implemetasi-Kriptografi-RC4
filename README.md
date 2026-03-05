@@ -51,5 +51,7 @@ RC4 (Rivest Cipher 4)
 
 ## Author
 Nama: Alethea Tsabita Calista Syawal
+
 NIM: 24051204057
+
 Kelas: TIB 24
