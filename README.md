@@ -43,15 +43,7 @@ python rc4.py
 ## Example Output
 
 ```
-!(
-Masukkan key: world
-Masukkan plaintext: halo thea
-
-Ciphertext (HEX):
-0x36 0x2c 0xab 0x8 0xe2 0x2d 0xab 0x10 0x3f
-
-Hasil dekripsi:
-halo thea
+![output](output.png)
 ```
 
 ## Algorithm
