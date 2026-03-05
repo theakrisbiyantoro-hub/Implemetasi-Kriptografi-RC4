@@ -40,15 +40,11 @@ cd Implementasi-Kriptografi-RC4
 python rc4.py
 ```
 
-## Example Output
-
-```
 ## Output Program
 
 Berikut hasil enkripsi dan dekripsi menggunakan algoritma RC4.
 
 ![Output Program](output.png)
-```
 
 ## Algorithm
 RC4 (Rivest Cipher 4)
